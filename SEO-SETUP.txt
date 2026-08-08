@@ -1,0 +1,3 @@
+SEO metadata, Open Graph tags and favicon have been added.
+IMPORTANT: After publishing on GitHub Pages, replace the empty og:url value in index.html
+with your real GitHub Pages URL (for example: https://username.github.io/repository/).
